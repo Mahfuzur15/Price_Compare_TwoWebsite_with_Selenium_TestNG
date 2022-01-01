@@ -18,12 +18,12 @@ These steps are executed:<br />
 
 Open the Chrome browser<br />
 Maximize the browser window<br />
-Go to Bank First Amazon Site<br />
+Go to First Amazon WebSite<br />
 Click Search Option<br />
 Send Text<br />
 Select matching Phone & Get Price <br />
 
-Now Go to Bank First Flipkart Site<br />
+Now Go to Flipkart Site<br />
 Click Search Option<br />
 Send Text<br />
 Select matching Phone & Get Price <br />
